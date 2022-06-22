@@ -166,7 +166,6 @@ a {
 
 #everything {
     max-width: 850px;
-    min-width: 700px;
 }
 
 #smartphone-pics {
@@ -179,7 +178,7 @@ a {
     left: 120px;
 }
 
-@media (max-width: 699px) {
+@media (max-width: 750px) {
     #smartphone-pics {
         display: none;
     }
