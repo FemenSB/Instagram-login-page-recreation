@@ -1,0 +1,180 @@
+body {
+    background-color: rgb(245, 245, 245);
+}
+
+section {
+    margin-top: 60px;
+}
+
+footer {
+    margin-top: 50px;
+    height: 50px;
+}
+
+input[type="text"] {
+    height: 25px;
+    margin-bottom: 7px;
+    font-size: 12px;
+    padding-left: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgray;
+}
+
+ul {
+    margin-bottom: 0px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+li {
+    font-size: 12px;
+    color: gray;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+input[type="text"], textarea {
+    background: rgb(245, 245, 245);
+}
+
+input[type = button] {
+    height: 30px;
+    background-color: rgb(0, 137, 228);
+    border-radius: 5px;
+    border-style: none;
+    font-weight: bolder;
+    color: white;
+    margin-top: 5px;
+}
+
+input {
+    width: 100%;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(40, 40, 110);
+}
+
+.flexbox {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.frame {
+    background-color: white;
+    border-style: solid;
+    border-width: thin;
+    border-color: lightgray;
+    padding: 10px 40px 10px 40px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.bar {
+    height: 1px;
+    width: 37%;
+    background-color: lightgray;
+}
+
+.download-button {
+    width: 140px;
+}
+
+.width-100 {
+    width: 100%;
+}
+
+.screenshot {
+    position: absolute;
+    z-index: -1;
+    left: 130px;
+    top: 10px;
+    width: 240px;
+}
+
+#ig-logo {
+    margin: 40px 30px 30px 30px;
+    align-self: center;
+    max-width: 175px;
+}
+
+#or-p {
+    font-weight: bold;
+    font-size: 14px;
+    color: rgb(153, 153, 153);
+}
+
+#or {
+    justify-content: space-between;
+}
+
+#main-menu {
+    width: 300px;
+}
+
+#text-14 {
+    font-size: 14px;
+}
+
+#sign-up-a {
+    color: rgb(0, 137, 228);
+    font-weight: bold;
+}
+
+#login-facebook {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+#forgot-password {
+    font-size: 12px;
+}
+
+#facebook-forgot {
+    justify-content: space-around;
+}
+
+#download {
+    width: 100%;
+}
+
+#facebook-icon {
+    width: 16px;
+    border-radius: 3px;
+    margin-right: 10px;
+}
+
+#everything {
+    max-width: 850px;
+    min-width: 750px;
+}
+
+#smartphone-pics {
+    position: relative;
+    width: 100%;
+}
+
+#smartphone {
+    position: relative;
+    left: 120px;
+}
