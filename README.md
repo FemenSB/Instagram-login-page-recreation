@@ -12,5 +12,11 @@ This recreation is as responsive as the original page. All elements have fixed s
 
 ## /documentation
 
-At /documentation are screenshots of the original Instagram login page as it was at the time of the development of this recreation (06/22/2022).
+At /documentation are screenshots of the original Instagram login page as it was at the time of the development of this recreation (06/22/2022). There are also screenshots of the recreation.
 
+## Screenshots
+
+Screenshots of the recreation
+
+![Full width page](documentation/recreation-horizontal.png)
+![Small width page](documentation/recreation-vertical.png)
